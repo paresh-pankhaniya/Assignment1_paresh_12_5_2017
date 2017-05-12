@@ -1,6 +1,8 @@
 # Assignment1_paresh_12_5_2017
 
+
 cache with 20 element
+
 
 To run the code please folloe the steps.
 1 ) clone this repo using 
